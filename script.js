@@ -19,7 +19,7 @@ var phrases = ['Bazaar tents line weekend streets',
               ];
 
   //linked list with number of images per folder updated before each commit
-var tally = [253, 980, 377, 795, 241, 395, 1023, 217];
+var tally = [253, 980, 377, 795, 1023, 217];
 
 /////
 
