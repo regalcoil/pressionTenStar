@@ -56,7 +56,7 @@ function imageDisplay(name) {
     console.log(randomizer);
     //without this, there would always be 1 image that showed up as "image not defined" with a console error
     if (imageCursor != undefined) {
-      $('#console').append('<div class="artwork"><img width="100%" src="foundARTs/' + name + '/' + imageCursor + '.jpg" alt="image ' + imageCursor +'"></div>');
+      $('#console').append('<div class="artwork"><img width="39%" src="foundARTs/' + name + '/' + imageCursor + '.jpg" alt="image ' + imageCursor +'"></div>');
     }
   }
 }
